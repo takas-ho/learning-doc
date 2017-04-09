@@ -1,3 +1,4 @@
 # fuga.md
 - fugafuga
-index.mdindex.md
+- index.md
+- index.md
